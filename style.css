@@ -1,0 +1,27 @@
+html {
+  font-size: 0.625px;
+}
+body {
+  font-family: "roboto", sans-serif;
+  padding: 20px;
+  border-radius: 900px;
+  background: linear-gradient(to right, #d79fe2, #e7dd6d);
+  margin: 20px;
+  white-space: wrap;
+}
+.content {
+  font-size: 20px;
+}
+.content1 {
+  text-shadow: black 1px 1px 2px;
+  justify-content: center;
+  white-space: pre-wrap;
+  display: inline-block;
+  color: rgb(4, 3, 3);
+  height: 400px;
+  overflow: auto;
+  background-image: url(./img/pic\ 1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: local;
+}
